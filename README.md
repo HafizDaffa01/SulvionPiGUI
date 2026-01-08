@@ -16,7 +16,7 @@
 You can install `SulvionPiGUI` via pip:
 
 ```bash
-pip install spgui
+pip install sulvion-pigui
 ```
 
 Dependencies:
@@ -29,7 +29,7 @@ Dependencies:
 Here is a simple example to get you started:
 
 ```python
-import SPGUI as ui
+import sulvion-pigui as ui
 
 # Initialize app with a 10x10 grid
 app = ui.init(
@@ -85,3 +85,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 Developed with ❤️ by **Hafiz Daffa W**.
 - **GitHub**: [@HafizDaffa01](https://github.com/HafizDaffa01)
 - **Email**: [hafizdaffaw+dev@gmail.com](mailto:hafizdaffaw+dev@gmail.com)
+
